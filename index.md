@@ -1,8 +1,7 @@
 # Thanh Diem Nguyen - CSE110
 [`View ThanhDiemNguyen CSE110 on Github`](https://github.com/ThanhDiemNguyen/CSE110Project) 
 
-## *Hi everyone!* 
-## *I am [Thanh Diem Nguyen](https://github.com/ThanhDiemNguyen), a third-year student at UC San Diego, majoring in Computer Science.*
+## *Hi everyone! I am [Thanh Diem Nguyen](https://github.com/ThanhDiemNguyen), a third-year student at UC San Diego, majoring in Computer Science.*
 
 ![7E78CD74-](https://user-images.githubusercontent.com/114208205/191907066-ca176fc1-3578-49a0-b154-fbe6d90d6c0c.JPG) 
 
